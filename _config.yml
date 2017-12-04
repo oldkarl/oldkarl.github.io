@@ -79,3 +79,4 @@ theme: jane
 deploy:
   type: git
   repo: https://github.com/oldkarl/oldkarl.github.io
+  branch: master
